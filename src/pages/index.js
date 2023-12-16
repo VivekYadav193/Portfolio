@@ -34,9 +34,9 @@ export default function Home() {
                 className="!text-6xl !text-left xl:!text-5xl lg:!text-center lg:!text-6xl sm:!text-3xl"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:text-xs">
-                👋 Hi there! I'm Vivek Yadav, B.Tech student from
+                👋 Hi there! I am Vivek Yadav, B.Tech student from
                 <span className="font-semibold text-red-500 "> IN</span>
-                <span className="font-semibold text-white  ">DI</span>
+                <span className="font-semibold dark: to-white   text-blue-600  ">DI</span>
                 <span className="font-semibold text-green-500  ">A . </span>
                 <br />
                 🌐 As a tech enthusiast, I thrive on creating innovative and
@@ -47,7 +47,7 @@ export default function Home() {
                   Mongo Db{" "}
                 </span>
                 which I employ to craft engaging and dynamic user interfaces.
-                I'm constantly exploring new trends and best practices in the
+                I am constantly exploring new trends and best practices in the
                 ever-evolving world of web development.
               </p>
               <div className="flex items-center self-start mt-2 lg:self-center">
