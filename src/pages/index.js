@@ -36,7 +36,9 @@ export default function Home() {
               <p className="my-4 text-base font-medium md:text-sm sm:text-xs">
                 👋 Hi there! I am Vivek Yadav, B.Tech student from
                 <span className="font-semibold text-red-500 "> IN</span>
-                <span className="font-semibold   dark: text-white   ">DI</span>
+                <span className="font-semibold  text-blue-500  dark:fill-light  ">
+                  DI
+                </span>
                 <span className="font-semibold text-green-500  ">A . </span>
                 <br />
                 🌐 As a tech enthusiast, I thrive on creating innovative and
