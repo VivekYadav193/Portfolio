@@ -56,21 +56,21 @@ export const TwitterIcon = ({ className }) => (
       <g opacity=".3">
         <polygon
           fill="#fff"
-          fill-rule="evenodd"
+          fillRule="evenodd"
           points="16.002,19 6.208,5 8.255,5 18.035,19"
-          clip-rule="evenodd"
+          clipRule="evenodd"
         ></polygon>
         <polygon points="8.776,4 4.288,4 15.481,20 19.953,20 8.776,4"></polygon>
       </g>
       <polygon
-        fill-rule="evenodd"
+        fillRule="evenodd"
         points="10.13,12.36 11.32,14.04 5.38,21 2.74,21"
-        clip-rule="evenodd"
+        clipRule="evenodd"
       ></polygon>
       <polygon
-        fill-rule="evenodd"
+        fillRule="evenodd"
         points="20.74,3 13.78,11.16 12.6,9.47 18.14,3"
-        clip-rule="evenodd"
+        clipRule="evenodd"
       ></polygon>
       <path d="M8.255,5l9.779,14h-2.032L6.208,5H8.255 M9.298,3h-6.93l12.593,18h6.91L9.298,3L9.298,3z"></path>
     </svg>
