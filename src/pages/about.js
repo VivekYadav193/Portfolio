@@ -54,9 +54,9 @@ const about = () => {
                 About Me
               </h2>
               <p className="font-medium">
-                👋 Hello, I'm Vivek Yadav! I'm a B.Tech student, currently
+                👋 Hello, I am Vivek Yadav! I am a B.Tech student, currently
                 navigating my way through the exciting realms of web development
-                and data science. As a third-year student, I'm honing my skills
+                and data science. As a third-year student, I am honing my skills
                 and exploring the endless possibilities that technology offers.
                 <span className="font-semibold text-primary">
                   {" "}
@@ -66,8 +66,8 @@ const about = () => {
                   Express.js, and MongoDB.{" "}
                 </span>
                 🚀Continuous Learning Journey In the ever-evolving world of web
-                development, I'm always on the lookout for new trends and best
-                practices. Whether it's mastering the intricacies of ReactJS or
+                development, I am always on the lookout for new trends and best
+                practices. Whether it is mastering the intricacies of ReactJS or
                 diving into the world of data with Node.js and MongoDB.
               </p>
             </div>
