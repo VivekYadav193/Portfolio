@@ -26,6 +26,8 @@ dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light
                   hover:dark:border-light
 md:w-12 md:h-12 md:text-[10px]
 
+z-40	
+
 "
         >
           Hire Me
